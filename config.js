@@ -40,7 +40,7 @@ global.ytname = "YT: Lonewolfmoviehub"
 global.continent = "Africa" // your continent name 
 global.region = "Nigeria"
 global.state = "Edo" // your state name
-global.timezone = "Africa/WAT" // search on google if you don't know the timezone of your country //
+global.timezone = "Africa/GMT+1" // search on google if you don't know the timezone of your country //
 global.instagramId = "Enter Your Insta ID Here"
 global.email = "marvellousoseh3@gmail.com"
 
